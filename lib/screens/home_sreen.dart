@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
                   color: Colors.yellow,
                   icon: Icon(Icons.star), 
             )
-          ],
+          ]
           ),
                    Center(
                      child: Container(
